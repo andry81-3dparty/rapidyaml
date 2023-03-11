@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/0_1_0_20201103-3640527:
+    type:             git
+    url:              https://github.com/andry81-3dparty/rapidyaml
+    version:          0_1_0_20201103-3640527
+    fetch-to-branch:  0_1_0_20201103-3640527
